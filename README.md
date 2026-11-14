@@ -34,34 +34,6 @@ Görevlerin tarayıcıda saklanması için LocalStorage kullanılmıştır. Böy
 | GitHub | Kaynak kod yönetimi |
 | Netlify | Uygulamanın yayınlanması |
 
-## 📂 Proje Dosya Yapısı
-
-```text
-todo-app/
-│
-├── public/
-│
-├── src/
-│   ├── components/
-│   │   ├── TodoForm.jsx
-│   │   ├── TodoItem.jsx
-│   │   └── TodoList.jsx
-│   │
-│   ├── pages/
-│   │   └── Home.jsx
-│   │
-│   ├── interfaces/
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-│
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-```
-
 ## ⚙️ Kurulum
 
 Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
